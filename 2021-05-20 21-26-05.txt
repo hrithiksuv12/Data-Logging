@@ -1,0 +1,10 @@
+Name         : Hrithik J
+Phone number : 2222222222
+Place        : Mangalore
+Temperature  : 37.1
+
+Name         : Shreya J
+Phone number : 3333333333
+Place        : Mangalore
+Temperature  : 37.2
+
